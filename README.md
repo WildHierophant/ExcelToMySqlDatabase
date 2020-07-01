@@ -1,0 +1,2 @@
+# ExcelToMySqlDatabase
+自制excel表格导至指定数据库的工具，可以用于各种游戏项目
