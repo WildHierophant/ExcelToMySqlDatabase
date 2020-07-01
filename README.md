@@ -14,7 +14,7 @@
 3.点击导出Json按钮即可导出Json文件  
 
 ## 效果图
-![image](https://github.com/WildHierophant/ExcelToJson/blob/master/2020528-185333.jpg)
-![image](https://github.com/WildHierophant/ExcelToJson/blob/master/2020528-185505.jpg)
+![image](https://github.com/WildHierophant/ExcelToMySqlDatabase/blob/master/202071-102243.jpg)
+![image](https://github.com/WildHierophant/ExcelToMySqlDatabase/blob/master/202071-102501.jpg)
 
 Excel导出为MySqlDatabase工具.rar，压缩包中为编译好的文件，ExcelToMySqlDatabase文件夹为原始工程文件
