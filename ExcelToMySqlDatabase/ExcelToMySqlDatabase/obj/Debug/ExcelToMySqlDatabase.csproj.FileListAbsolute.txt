@@ -1,0 +1,16 @@
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\ExcelToMySqlDatabase.exe.config
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\ExcelToMySqlDatabase.exe
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\ExcelToMySqlDatabase.pdb
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\NPOI.dll
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\NPOI.OOXML.dll
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\NPOI.OpenXml4Net.dll
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.csprojAssemblyReference.cache
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.FormMain.resources
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.Properties.Resources.resources
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.csproj.GenerateResource.cache
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.csproj.CopyComplete
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.exe
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\obj\Debug\ExcelToMySqlDatabase.pdb
+E:\C#project\ExcelToMySqlDatabase\ExcelToMySqlDatabase\bin\Debug\MySql.Data.dll
